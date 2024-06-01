@@ -1,0 +1,15 @@
+[app]
+name = "Cat App"
+category = "Badge"
+menu = "Badge"
+wifi_preference = false
+
+[entry]
+class = "CatApp"
+
+[metadata]
+author = "ashhhleyyy"
+license = "MPL-2.0"
+url = "https://github.com/ashhhleyyy/tildagon-cat"
+description = "a lil cat for your badge, you can even pet the cutie :3"
+version = "0.0.1"
